@@ -86,6 +86,24 @@ class RicardoPereira:
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/ricardodatadev/music-manager-erp-showcase">Gestão para Escolas de Música</a></h3>
+      <p>Plataforma SaaS multi-tenant com alunos, matrículas, professores, financeiro e agenda sem conflitos de horário, com isolamento de dados via Row-Level Security.</p>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=10B981" />
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=10B981" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=10B981" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=10B981" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/ricardodatadev/sales-web-mvc">Sales Web MVC</a></h3>
+      <p>Aplicação web para gerenciamento de departamentos e vendedores, seguindo o padrão MVC com persistência via Entity Framework Core.</p>
+      <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=dotnet&logoColor=10B981" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-0d1117?style=flat-square&logo=dotnet&logoColor=10B981" />
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=10B981" />
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=10B981" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>👁️ <a href="https://github.com/ricardodatadev/detector-objetos">Detecção de Objetos</a></h3>
       <p>Detecção de objetos em vídeos em tempo real utilizando redes neurais convolucionais.</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=10B981" />
